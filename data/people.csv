@@ -1,0 +1,20 @@
+Person_ID,Names,GND,Biography,Association,Sources,Literature,Certainty,Amount,Comments
+PER:00001,Karl V,118560093,Kaiser des Heiligen Römischen Reichs,ASSOC:00003,,,1,1,
+PER:00002,Ferdinand I,118532502,"König der Deutschen, Erzherzog von Österreich",ASSOC:00003,,,1,1,
+PER:00003,Matthäus Lang von Wellenburg,119442620,Erzbischof von Salzburg,ASSOC:00001,,,1,1,
+PER:00004,Domkapelle,,,ASSOC:00001,Chronik 108,,3,10,"Widmann schreibt von Kapellen verschiedener Stifte beim Einzug Karls. Es ist anzunehmen, dass er damit die Chorknaben und Kanoniker der jeweiligen Kirchen meint. Um wie viele es sich handelt bleibt Spekulation"
+PER:00005,Alte Kapelle,,,ASSOC:00001,Chronik 108,,3,10,
+PER:00006,St. Johann,,,ASSOC:00001,Chronik 108,,3,10,
+PER:00007,Regensburger Gesandtschaft,,,ASSOC:00004,Chronik 108,,3,>4,"Mindestens vier, da diese einen Baldachin tragen"
+PER:00008,Regensburger Fähnlein,,,ASSOC:00004,Chronik 109,,2,4000,"Widmann beschreibt ""2 fenlen ob 2000 man"""
+PER:00009,Kaiserliche Entourage,,,ASSOC:00003,Chronik 109,,3,>1000,"Widmann beschreibt ""ob tausent pferden, [...] 200 trabanten, [...] 50 knaben"""
+PER:00009,Johann von Dänemark,,Prinz von Dänemark,ASSOC:00003,Chronik 110,https://en.wikipedia.org/wiki/John_of_Denmark_(1518%E2%80%931532),1,1,"Siehe Wikipedia, kein GND-Artikel"
+PER:00010,Kantorei Karls V,,,ASSOC:00003,Chronik 110,,3,40,"Widmann schreibt, dass  ""des kaysers contorei"" bei der Palmsonntagsandacht sangen, ""wasend ob 40 person darin"""
+PER:00011,Zwölf Männer,,,,Chronik 110,,2,12,Zwölf Gäste des Kaisers
+PER:00012,Friedrich II von der Pfalz,118535714,"Kurfürst von der Pfalz, kaiserlich & königlicher Kammerrat",ASSOC:00003,Chronik 109,,1,1,
+PER:00013,Zehn kaiserliche Reiter,,,ASSOC:00003,Chronik 113,,2,10,"Widmann schreibt, dass der Kaiser ""kaum 10 pferd"" bei seinem Ausritt nach Prüfening mitnahm"
+PER:00014,Zweihundert Trabanten,,,ASSOC:00003,Chronik 114,,2,200,Widmann beschreibt einen Zug von 200 Trabanten zum kaiserlichen Kirchgang
+PER:00015,Ludwig X von Bayern-Landshut,11872939X,Herzog von Bayern,,Chronik 114,,1,1,
+PER:00016,Kaiserliches Gefolge,,,ASSOC:00003,Chronik 117,,3,>200,Widmann beschreibt eine komplexe Zusammenstellung bei der Fronleichnamsprozession
+PER:00017,Georg von Sachsen,118716921,Herzog von Sachsen,,,,1,1,
+PER:00018,Johann III. von der Pfalz,12225290X,Bischof von Regensburg,ASSOC:00001,,,1,1,

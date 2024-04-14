@@ -1,0 +1,11 @@
+Event_ID,Name,Occasion,Date_start,Date_end,Type,Source,Literature,Certainty,Description
+EV:00001,Einzug Karls,OCC:00003,1532-02-28-08-00-00,1532-02-28,Einzug,Chroniken 108–9,,1,"Widmann beschreibt den Einzug des Kaisers detailliert. Insbesondere schildert er, wie die Regensburger Gesandtschaft den Kaiser empfängt, wie im Dom das Te Deum gesungen wird, und die große kaiserliche Entourage."
+EV:00002,Palmsonntagprozession,OCC:00001,1532-03-24-10-00-00,1532-03-24-12-00-00,Prozession,Chroniken 110,,1,
+EV:00003,Kaiserliche Fußwaschung,OCC:00002,1532-03-28,1532-03-28,Zeremonie,Chroniken 110,,2,
+EV:00004,Eröffnung des Reichstags,OCC:00003,1532-04-17,1532-04-17,Zeremonie,Chroniken 113,,1,
+EV:00005,Ausritt des Kaisers nach Prüfening,,1532-05-07,1532-05-07,Prozession,Chroniken 113,,3,
+EV:00006,Kirchgang St. Emmeram,OCC:00004,1532-05-09,1532-05-09,Prozession,Chroniken 114,,1,
+EV:00007,Jagdritt,,1532-06-04,1532-06-04,Jagd,Chroniken 116,,1,
+EV:00008,Kaiserliche Prozession,OCC:00005,1532-06-06-09-00-00,1532-06-06,Prozession,Chroniken 117,,1,
+EV:00009,Ritt nach Abach,,1532-06-11,1532-06-11,,Chroniken 118,,1,
+EV:00010,Abschied des Reichstags,OCC:00003,1532-07-27,1532-07-27,Zeremonie,Chroniken 119,,1,

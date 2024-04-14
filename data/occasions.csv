@@ -1,0 +1,6 @@
+Occasion_ID,Names,Association,Description
+OCC:00001,Palmsonntag,ASSOC:00001,Sonntag vor Ostern
+OCC:00002,Gründonnerstag,ASSOC:00001,"Donnerstag vor Karfreitag, letztes Abendmahl"
+OCC:00003,Reichstag,ASSOC:00003,Reichstag zu Regensburg und verbundene Zeremonien
+OCC:00004,Christi Himmelfahrt,ASSOC:00001,
+OCC:00005,Fronleichnam,ASSOC:00001,Katholisches Hochfest der Eucharistie

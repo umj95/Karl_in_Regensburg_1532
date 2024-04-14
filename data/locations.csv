@@ -1,0 +1,14 @@
+Location_ID,Names,Type,Coordinates,GND,Association,Description,Literature,Certainty
+LOC:00001,Schwebles Haus auf der Haid; Thon-Dittmer-Palais,Gebäude,"49.019972201264636, 12.09306963652642",4541730-1,ASSOC:00003,"Patrizierpalast, heute Teil des Thon-Dittmer-Palais",Chroniken 108,1
+LOC:00002,Salzburger Hof,Gebäude,"49.01872133595646, 12.099285124442087",4597960-1,ASSOC:00001,Palast der Erzbischöfe von Salzburg,Zaisberger,2
+LOC:00003,Weichsanpeter; Kloster St. Peter,Gebäude,"49.01453228373228, 12.099814031929524",,ASSOC:00001,"Priorat des Schottenklosters St. Jakob, 1552 abgerissen",,3
+LOC:00004,Lengfeld; Burglengenfeld,Ort,"49.20727395715766, 12.039876483109817",4009133-8,,Stadt nordwestlich von Regensburg,,1
+LOC:00005,Dom St. Peter,Gebäude,"49.01948734426035, 12.098232752987549",4194773-3,ASSOC:00001,Dom der Stadt Regensburg,,1
+LOC:00006,Herberg auff der Haid; Goldenes Kreuz,Gebäude,"49.019908688708774, 12.092433918813576",4541823-8,ASSOC:00003,"Herberge am Haidplatz, Unterkunft Karls V",,1
+LOC:00007,Predigerkirche; Dominikanerkloster St. Blasius,Gebäude,"49.01808141172946, 12.09057753874476",16039692-X,ASSOC:00001,Dominikanerkloster,Chroniken 110,1
+LOC:00008,Rathaus Regensburg,Gebäude,"49.02027695778964, 12.094376577824661",4297910-9,ASSOC:00004,"Altes Rathaus, Austragungsort des Reichstags",,1
+LOC:00009,Prüfening,Ort,"49.00919966018779, 12.045364059680338",5052233-4,ASSOC:00001,Kloster Prüfening,,1
+LOC:00010,Kloster St. Emmeram; St. Haymeran,Gebäude,"49.015521375870954, 12.093054792839553",4126343-1,ASSOC:00001,Kloster St. Emmeram,,1
+LOC:00011,Neue Waag,Gebäude,"49.019770190876855, 12.09360957445997",4548149-0,ASSOC:00003,Patrizierpalast,,1
+LOC:00012,"Abach, Bad Abbach",Ort,"48.93717695617145, 12.040691708816608",4079603-6,,Kurort,,1
+LOC:00013,Bischofshof,Gebäude,"49.020088681935576, 12.097527298871725",4445065-5,ASSOC:00001,Residenz des Bischofs von Regensburg,,1
